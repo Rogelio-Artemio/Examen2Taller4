@@ -16,6 +16,8 @@
 // app.listen(port, () => {
 //     console.log(`Escuhando Puerto: ${port}`);
 // });
+//los codigos comentados son las que usaron anteriormente, son solo repaldos que dejo para cualquier otra modificacion. ¡Gracias!
+
 
 import express from "express"
 import dot from "dotenv"
